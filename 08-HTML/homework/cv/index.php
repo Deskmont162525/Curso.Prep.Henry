@@ -13,12 +13,12 @@ include_once 'plantillas/navbar.inc.php';
               <div
                 class="page-header-image"
                 data-parallax="true"
-                style="background-image: url('images/cc-bg-1.jpeg')"
+                style="background-image: url('assets/images/cc-bg-1.jpeg')"
               ></div>
               <div class="container">
                 <div class="content-center">
                   <div class="cc-profile-image">
-                    <a href="#"><img src="images/anthony.jpg" alt="Image" /></a>
+                    <a href="#"><img src="assets/images/anthony.jpg" alt="Image" /></a>
                   </div>
                   <div class="h2 title">Antonio Foronda</div>
                   <p class="category text-white">
@@ -60,6 +60,9 @@ include_once 'plantillas/navbar.inc.php';
                       Hola! Soy Antonio Foronda. Web Developer,Backend,
                       Frontend.
                       Como persona organizada y con una gran motivación, soy capaz de adaptarme a cualquier circunstancia y dar siempre lo mejor de mí en cualquier proyecto, al mismo tiempo que me esfuerzo por trabajar en equipo y fomentar valores como los del compañerismo.
+                    </p>
+                    <p>
+                      Hobbies : Me enacntan las artes marciales, las caminatas ecologicas(senderismo),los video juegos 
                     </p>
                     
                   </div>
@@ -696,7 +699,8 @@ include_once 'plantillas/navbar.inc.php';
                   <div class="card-body">
                     <div class="h5">Full Stack Web Developer</div>
                     <p class="category">Henry</p>
-                    <p>...</p>
+                    <p>Me encuentro estudiando la carrera de programacion, por que es mi meta mayor desde que tenia 16 años de edad,
+                      y por causas externas no habia tenido la oportunidad de certificarme esa es mi expectativa mayor tener un carton con mi titulo como programador y crear muchisimas web y aplicaciones web, de reconocimiento mundial, doy gracias a henry por brindarme la oportunidad de lograr esta meta</p>
                   </div>
                 </div>
               </div>

@@ -1,4 +1,4 @@
-# Homework: Javascript X - Ejercicios Extras
+# Homework: Javascript X - Ejercicios Extras 
 
 ## Instrucciones
 ---
