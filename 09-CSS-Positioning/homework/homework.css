@@ -27,21 +27,54 @@ archivo en cualquiera de estas carpetas, estás en el lugar equivocado.
 
 
 /* Ejercicio 3: */
-
-
 /* Acá va tu código */
+#ejercicioTres{
+
+
+    margin: 100 0 0 200;
+
+}
 
 
 /* Ejercicio 4: */
 
 
 /* Acá va tu código */
+#ejercicioCuatro{
 
+    position: absolute;
+    top: 1em;
+}
 
 /* Ejercicio 5: */
 
 
 /* Acá va tu código */
+ 
+
+#ejercicioCinco {
+
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    flex-direction:row-reverse;
+    justify-content: space-around;    
+    
+}
 
 
-/* Ejercicio 6. */
+#ejercicioSiete{
+
+    
+    align-items: flex-end;
+    flex-direction:row-reverse;
+    justify-content: center;
+    flex-direction:column;
+flex-wrap:wrap;
+
+}
+
+
+  
+
+
